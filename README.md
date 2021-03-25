@@ -18,3 +18,7 @@ Para rodar o código em sua maquina, utilize o seguinte comando no terminal, já
 `python game.py`
 
 E pronto o jogo já estará sendo executado.
+
+# Controles:
+- `espaço` pula;
+- Digite `Ctrl + C` no terminal para sair do jogo.
